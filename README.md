@@ -1,6 +1,14 @@
 # TAREA-N2
 ![image](https://user-images.githubusercontent.com/117045943/202333954-4308416c-49c8-4ebb-90f0-87ce7a119797.png)
+
 1.OBJETIVOS
+
+- Familiarizarse en el uso de instrumentos de laboratorio.
+- Fortalecer los conocimientos adquiridos en clase teóricamente sobre la Ley de Ohm y las leyes de Kirchoff en circuitos resistivos, a través del uso y manejo de elementos,  dispositivos eléctricos situados en el laboratorio de circuitos eléctricos.
+- Demostrar la veracidad y credibilidad de conceptos o enunciados que la Ley de Ohm y  las  leyes  de  Kirchhhoff  establecen  en  sus  teorías  con  respectos  a  la  corriente, tensión y resistividad.
+- Determinar el valor de la resistencia eléctrica de un conductor mediante la relación Voltaje-Corriente.
+- Familiarizarse con el conocimiento del protoboard y elementos eléctricos
+
 2.MARCO TEÓRICO (RESUMEN)
 
 ![1](https://user-images.githubusercontent.com/117045943/202358413-c2e8c221-6386-4bac-8362-f4724c2d693a.png)
@@ -34,9 +42,16 @@
 ![image](https://user-images.githubusercontent.com/117045943/202358386-3df89692-29d7-4eed-8b26-d0ca5bfcb64f.png)
 
 4.VIDEO
+
+
+
 5.CONCLUSIONES
 
-
+- El voltaje que pasa a través de un elemento es el trabajo (energía) que se requierepara mover una unidad de carga positiva de la terminal (-) a la terminal (+).
+- La  resistencia  eléctrica  en  cambio,  al  ser  la  oposición  al  paso  de  la  corriente  eléctrica representada por materiales como los conductores cuando ofrecen muy poca resistencia y los aislantes cuando tienen una gran resistencia a la corriente, es inversamente proporcional a la intensidad de corriente, es decir cuanta más resistencia, menor será la intensidad de corriente.
+- El  divisor  de  tensión  resulta  muy  importante  para  algunos  cálculos  que  se presentan en los circuitos, es una relación de utilidad en los casos en el que no conocemos la corriente que transita por el circuito, pero si conocemos el voltaje de salida deseado o una de las dos resistencias involucradas.
+- La gráfica que se obtuvo por medio de la linealizacion permitió que se pueda  apreciar  de  la  manera  más  clara  la  relación  de  estas  tres cantidades.  
+- Se   comprobó   que   esimportante determinarel   voltaje   máximo   decada   codensador   yaque   si   aplicamos   unvoltaje   mayor   alcalculo   obtenidopodemossobrecalentar   eincluso   llegar   aquemar el codensador.
 
 6.BIBLIOGRAFÍA
 
